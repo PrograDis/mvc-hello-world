@@ -1,1 +1,2 @@
-Flask==2.1.0  # Web framework used to build the MVC application
+Flask==2.2.5
+Werkzeug==2.2.3
